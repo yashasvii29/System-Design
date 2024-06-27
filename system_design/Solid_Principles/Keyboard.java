@@ -1,4 +1,4 @@
 package Solid_Principles;
-public class Keyboard {
+public interface Keyboard {
     
 }
